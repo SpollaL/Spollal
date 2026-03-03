@@ -9,7 +9,7 @@ PhD in Data Science · Nuclear Fusion · MLOps · Python · Go · Rust
 
 I build and ship ML systems in production. Currently at **NielsenIQ**, where I develop and maintain the Marketing Mix Modelling library and own the CI/CD pipeline for its deployment.
 
-Previously at **Voltaware**, I built machine learning algorithms for energy disaggregation of smart meter data. Before that, I did a **PhD in Industrial Engineering** applying ML and evolutionary computation to large-scale datasets from thermonuclear fusion reactors, in collaboration with [CIEMAT](https://www.ciemat.es/).
+Previously at **Voltaware**, I built machine learning algorithms for energy disaggregation of smart meter data. Before that, I did a **PhD in Industrial Engineering** applying ML and evolutionary computation to large-scale datasets from thermonuclear fusion reactors.
 
 I care about writing clean, reliable code — not just building models, but shipping them properly.
 
