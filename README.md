@@ -30,7 +30,7 @@ PhD in Data Science · Nuclear Fusion · MLOps · Python · Go · Rust
 
 | Project | Description | Stack |
 |---|---|---|
-| [**iron-sight**](https://github.com/SpollaL/iron-sight) | Terminal CSV/Parquet viewer | Rust |
+| [**datasight**](https://github.com/SpollaL/datasight) | Terminal CSV/Parquet viewer | Rust |
 | [**ai-coding-agent**](https://github.com/SpollaL/ai-coding-agent) | Minimal AI coding agent | Python |
 | [**loan_approval_prediction_API**](https://github.com/SpollaL/loan_approval_prediction_API) | ML API for loan approval prediction | Python · Django |
 | [**gator**](https://github.com/SpollaL/gator) | RSS feed aggregator | Go |
